@@ -7,4 +7,4 @@ React.js, mongoDB, AJAX, Express.js
 
  Heroku link: 
 
- ![gif]('/googleBooks.gif')
+ ![gif](/googleBooks.gif)
