@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../../App.css";
 import Card from "../Card";
 import CardList from "../CardList";
-import API from "../../../../scripts/api";
+import API from "../../scripts/api";
 import Button from "../Button";
 import SearchInput from "../SearchInput";
 import Footer from "../Footer";
